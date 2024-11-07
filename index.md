@@ -9,3 +9,6 @@
 ```php
 $var = "Web Artisan!"
 ```
+- [x] Creating headers
+- [x] Inserting Image
+- [ ] List of tasks 
